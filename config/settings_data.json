@@ -7,7 +7,7 @@
     "gradient_accent_2": "",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
-    "colors_background_1": "#ffffff",
+    "colors_background_1": "#e7efbe",
     "gradient_background_1": "",
     "colors_background_2": "#f3f3f3",
     "gradient_background_2": "",
@@ -102,6 +102,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Welcome to our store",
               "text_alignment": "center",
