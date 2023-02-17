@@ -140,27 +140,35 @@
             "type": "link_list",
             "settings": {
               "heading": "Quick links",
-              "menu": "footer"
+              "menu": "footer-quick-links"
             }
           },
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Info",
-              "menu": "footer"
+              "heading": "Shop by Category",
+              "menu": "shop-by-category"
+            }
+          },
+          "79aadd44-72ed-48a2-9b1c-654c06d60307": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Company Information",
+              "menu": "footer-company-info"
             }
           },
           "footer-2": {
             "type": "text",
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "Contact Us",
+              "subtext": "<p>Phone: <a href=\"tel:334-332-3331\" title=\"(334) 332-3331\">(334) 332-3331<\/a><\/p><p><\/p><p>Email: <a href=\"mailto:loganspeck0@gmail.com\" title=\"mailto:loganspeck0@gmail.com\">info@pac360design.com<\/a><\/p><p><\/p><p>3300 Winbrook Dr Memphis, TN 38116<\/p><p><\/p>"
             }
           }
         },
         "block_order": [
           "footer-0",
           "footer-1",
+          "79aadd44-72ed-48a2-9b1c-654c06d60307",
           "footer-2"
         ],
         "settings": {
