@@ -136,13 +136,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer-quick-links"
-            }
-          },
           "footer-1": {
             "type": "link_list",
             "settings": {
@@ -157,6 +150,13 @@
               "menu": "footer-company-info"
             }
           },
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Quick links",
+              "menu": "footer-quick-links"
+            }
+          },
           "footer-2": {
             "type": "text",
             "settings": {
@@ -166,9 +166,9 @@
           }
         },
         "block_order": [
-          "footer-0",
           "footer-1",
           "79aadd44-72ed-48a2-9b1c-654c06d60307",
+          "footer-0",
           "footer-2"
         ],
         "settings": {
