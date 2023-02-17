@@ -1,7 +1,32 @@
 {
   "sections": {
+    "7c15317d-5f50-4d1f-b044-32d821843209": {
+      "type": "video-background",
+      "blocks": {
+        "template--17879532896569__7c15317d-5f50-4d1f-b044-32d821843209-1676647319462a472a-0": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/66986f95572948569bd5382bf87c2e72.mp4",
+            "overlay_opacity": 28,
+            "title": "PAC 360 Design",
+            "text": "<p>Discover a greener way to ship with our eco-friendly product line.<\/p>",
+            "color_text": "#ffffff",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all",
+            "color_btn_bg": "#ffffff",
+            "color_btn_text": "#121212"
+          }
+        }
+      },
+      "block_order": [
+        "template--17879532896569__7c15317d-5f50-4d1f-b044-32d821843209-1676647319462a472a-0"
+      ],
+      "settings": {
+      }
+    },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -162,19 +187,6 @@
         "padding_bottom": 36
       }
     },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -239,11 +251,11 @@
     }
   },
   "order": [
+    "7c15317d-5f50-4d1f-b044-32d821843209",
     "image_banner",
     "87fab755-4256-4e25-820b-cd179c2b93c9",
     "rich_text",
     "collage",
-    "video",
     "multicolumn",
     "c21db7b0-c2cf-4dca-b3d0-77d7f593204d"
   ]
