@@ -23,10 +23,20 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "308ac7d3-72a6-4e1e-93c3-b42e840558e0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<form action=\"{{ routes.search_url }}\">\n  <input type=\"text\"\n    placeholder=\"Search\"\n    name=\"q\"\n    value=\"{{ search.terms | escape }}\"\n >\n  <input type=\"submit\" value=\"Search\">\n<\/form>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "b1064b68-cb0a-4349-80e3-9c33240e1f8a"
+    "b1064b68-cb0a-4349-80e3-9c33240e1f8a",
+    "308ac7d3-72a6-4e1e-93c3-b42e840558e0"
   ]
 }
