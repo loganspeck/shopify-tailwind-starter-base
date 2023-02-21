@@ -2,7 +2,6 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -10,6 +9,7 @@
     },
     "cb7ed00b-2722-4539-a099-85a6baacc131": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-0": {
           "type": "heading",
@@ -52,6 +52,7 @@
     },
     "b1064b68-cb0a-4349-80e3-9c33240e1f8a": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Tutorials",
         "heading_size": "h2",
@@ -69,6 +70,7 @@
     },
     "3e112e65-43fd-48dc-9a41-a472696474e9": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Product Information",
         "heading_size": "h2",
