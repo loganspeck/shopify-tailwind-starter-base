@@ -135,7 +135,7 @@
         "template--17879532896569__5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0-1676991672da0c0749-1": {
           "type": "column",
           "settings": {
-            "title": "",
+            "title": "Sustainability at PAC 360 Design",
             "text": "<p>At PAC 360 Design, we are committed to reducing waste and protecting the environment through eco-friendly packaging solutions. We're passionate about sustainability and take pride in providing high-quality, innovative, and affordable packaging products that meet the needs of businesses of all sizes. Our mission is to help businesses reduce their carbon footprint and make a positive impact on the environment. Whether you're a startup, a small business or a large corporation, we're here to provide you with the most effective and sustainable packaging solutions available. Thanks for choosing PAC 360 Design as your partner in sustainability, we can't wait to help you achieve your environmental goals!<\/p>",
             "link_label": "",
             "link": ""
@@ -147,7 +147,7 @@
         "template--17879532896569__5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0-1676991672da0c0749-1"
       ],
       "settings": {
-        "title": "Sustainability at PAC 360 Design",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
