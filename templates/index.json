@@ -119,34 +119,48 @@
         "padding_bottom": 36
       }
     },
-    "rich_text": {
-      "type": "rich-text",
+    "5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0": {
+      "type": "multicolumn",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "template--17879532896569__5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0-1676991672da0c0749-0": {
+          "type": "column",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
+            "image": "shopify:\/\/shop_images\/Logo_badge_2x_42f78c21-d641-4a52-b7ee-8cc14172aac6.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "text": {
-          "type": "text",
+        "template--17879532896569__5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0-1676991672da0c0749-1": {
+          "type": "column",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "title": "",
+            "text": "<p>At PAC 360 Design, we are committed to reducing waste and protecting the environment through eco-friendly packaging solutions. We're passionate about sustainability and take pride in providing high-quality, innovative, and affordable packaging products that meet the needs of businesses of all sizes. Our mission is to help businesses reduce their carbon footprint and make a positive impact on the environment. Whether you're a startup, a small business or a large corporation, we're here to provide you with the most effective and sustainable packaging solutions available. Thanks for choosing PAC 360 Design as your partner in sustainability, we can't wait to help you achieve your environmental goals!<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "template--17879532896569__5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0-1676991672da0c0749-0",
+        "template--17879532896569__5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0-1676991672da0c0749-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "title": "Sustainability at PAC 360 Design",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Read More",
+        "button_link": "",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collage": {
@@ -155,7 +169,7 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "branded"
           }
         },
         "product": {
@@ -178,7 +192,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "Best Sellers",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
@@ -186,77 +200,13 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "c21db7b0-c2cf-4dca-b3d0-77d7f593204d": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "7c15317d-5f50-4d1f-b044-32d821843209",
     "image_banner",
     "87fab755-4256-4e25-820b-cd179c2b93c9",
-    "rich_text",
-    "collage",
-    "multicolumn",
-    "c21db7b0-c2cf-4dca-b3d0-77d7f593204d"
+    "5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0",
+    "collage"
   ]
 }
