@@ -2,9 +2,52 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "cb7ed00b-2722-4539-a099-85a6baacc131": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Resource Center<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to the PAC 360 Design Resource Center! We understand that when it comes to packaging, it can be hard to navigate through the vast options available. That's why we've created this resource center to provide you with the information you need to make informed decisions about your packaging solutions. Whether you're looking for tips on sustainable packaging, the latest packaging trends, tutorials on how to use our products, or how to choose the right packaging materials for your products, we've got you covered. So dive in, explore, and empower yourself to make the best choices for your business and the planet.<\/p>"
+          }
+        },
+        "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Product Information",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "Tutorials",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-0",
+        "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-1",
+        "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "b1064b68-cb0a-4349-80e3-9c33240e1f8a": {
@@ -36,6 +79,7 @@
   },
   "order": [
     "main",
+    "cb7ed00b-2722-4539-a099-85a6baacc131",
     "b1064b68-cb0a-4349-80e3-9c33240e1f8a",
     "308ac7d3-72a6-4e1e-93c3-b42e840558e0"
   ]
