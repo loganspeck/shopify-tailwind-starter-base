@@ -2947,3 +2947,8 @@ details-disclosure > details {
     outline: transparent solid 1px;
   }
 }
+
+:root {
+  --font-body-family: "Montserrat", sans-serif !important;
+  --font-heading-family: "Rubik", sans-serif  !important;
+}
