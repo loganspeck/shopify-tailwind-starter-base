@@ -2,9 +2,40 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "7f40e0cc-5566-4307-92f2-794455d77a72": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17879533289785__7f40e0cc-5566-4307-92f2-794455d77a72-1676996963f516a635-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Contact Us<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--17879533289785__7f40e0cc-5566-4307-92f2-794455d77a72-1676996963f516a635-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Thank you for your interest in PAC 360 Design! We are always here to help answer any questions you may have about our products and services. If you have a question, comment, or concern, please don't hesitate to reach out to us using the contact form below. Our dedicated team of packaging experts will get back to you as soon as possible. Alternatively, you can also give us a call or send us an email using the information provided on this page. We value your feedback and look forward to hearing from you!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17879533289785__7f40e0cc-5566-4307-92f2-794455d77a72-1676996963f516a635-0",
+        "template--17879533289785__7f40e0cc-5566-4307-92f2-794455d77a72-1676996963f516a635-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "form": {
@@ -20,6 +51,7 @@
   },
   "order": [
     "main",
+    "7f40e0cc-5566-4307-92f2-794455d77a72",
     "form"
   ]
 }
