@@ -10,6 +10,7 @@
     },
     "cb7ed00b-2722-4539-a099-85a6baacc131": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-0": {
           "type": "heading",
@@ -55,6 +56,7 @@
     },
     "b1064b68-cb0a-4349-80e3-9c33240e1f8a": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Tutorials",
         "heading_size": "h2",
@@ -72,6 +74,7 @@
     },
     "3e112e65-43fd-48dc-9a41-a472696474e9": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Product Information",
         "heading_size": "h2",
@@ -86,12 +89,55 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "0b08ae8d-2def-4006-8e29-7867922bd1db": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18104510906681__0b08ae8d-2def-4006-8e29-7867922bd1db-1676996963f516a635-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Our Vision and Framework<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18104510906681__0b08ae8d-2def-4006-8e29-7867922bd1db-1676996963f516a635-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>PAC 360 Design is a family-owned business that is passionate about providing eco-friendly and effective packaging solutions for businesses of all sizes. Our vision is to lead the industry in innovative, sustainable, and cost-effective packaging solutions that protect our planet and your products.<\/p><p><\/p><p>To achieve this vision, we've developed a framework that guides our decision-making and product development. This framework is based on three key pillars: sustainability, innovation, and customer satisfaction.<\/p><p><\/p><p>Sustainability is at the core of our business. We're committed to minimizing our environmental impact by using eco-friendly materials, optimizing our product-to-package ratio, and reducing waste throughout our entire supply chain. We believe that protecting the planet is everyone's responsibility, and we're proud to do our part.<\/p><p><\/p><p>Innovation is another key pillar of our framework. We believe that the best way to provide our customers with effective and sustainable packaging solutions is through continuous innovation. That's why we're always looking for new and better ways to protect your products while minimizing our environmental impact. Our patented technology, for example, is just one example of the kind of innovation we're constantly striving for.<\/p><p><\/p><p>Customer satisfaction is our third and final pillar. We know that our success depends on your success, which is why we're committed to providing the highest level of customer service and satisfaction. We take pride in offering custom packaging solutions that are tailored to your specific needs and requirements, and we're always here to help you find the right packaging solution for your business.<\/p><p><\/p><p>Thank you for taking the time to learn more about our vision and framework at PAC 360 Design. We're committed to providing sustainable, innovative, and customer-centric packaging solutions for businesses like yours.<\/p>"
+          }
+        },
+        "template--18104510906681__0b08ae8d-2def-4006-8e29-7867922bd1db-1676996963f516a635-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find Out More About Us",
+            "button_link": "shopify:\/\/pages\/about-us",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18104510906681__0b08ae8d-2def-4006-8e29-7867922bd1db-1676996963f516a635-0",
+        "template--18104510906681__0b08ae8d-2def-4006-8e29-7867922bd1db-1676996963f516a635-1",
+        "template--18104510906681__0b08ae8d-2def-4006-8e29-7867922bd1db-1676996963f516a635-2"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "cb7ed00b-2722-4539-a099-85a6baacc131",
     "b1064b68-cb0a-4349-80e3-9c33240e1f8a",
-    "3e112e65-43fd-48dc-9a41-a472696474e9"
+    "3e112e65-43fd-48dc-9a41-a472696474e9",
+    "0b08ae8d-2def-4006-8e29-7867922bd1db"
   ]
 }
