@@ -28,10 +28,10 @@
           "type": "button",
           "settings": {
             "button_label": "Product Information",
-            "button_link": "",
+            "button_link": "#SectionHeading-template--17879532634425__3e112e65-43fd-48dc-9a41-a472696474e9",
             "button_style_secondary": false,
             "button_label_2": "Tutorials",
-            "button_link_2": "",
+            "button_link_2": "#SectionHeading-template--17879532634425__b1064b68-cb0a-4349-80e3-9c33240e1f8a",
             "button_style_secondary_2": false
           }
         }
