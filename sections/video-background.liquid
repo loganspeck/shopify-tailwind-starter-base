@@ -51,6 +51,7 @@ poster="https:{{ block.settings.video_image | img_url: 'master' }}">
 .videoBackground .imageBoxInfoDescription p {
 
 color: {{ block.settings.color_text }}!important;
+margin-bottom: 10px;
 
 }
 
@@ -60,7 +61,7 @@ color: {{ block.settings.color_text }}!important;
 
 {% if block.settings.text != blank %}
 
-<div class="imageBoxInfoDescription" id="{{ block.id }}" style="color: {{ block.settings.color_text }}; margin-bottom: 10px;">
+<div class="imageBoxInfoDescription" id="{{ block.id }}" style="color: {{ block.settings.color_text }}" >
 
 {{ block.settings.text }}
 
