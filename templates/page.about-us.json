@@ -157,6 +157,9 @@
         "template--18095507538233__c7fa9c31-d1de-416e-ac57-cf9c3ce1c482-1677077354fb60d062-0",
         "template--18095507538233__c7fa9c31-d1de-416e-ac57-cf9c3ce1c482-1677077354fb60d062-1"
       ],
+      "custom_css": [
+        ".center {text-align: left; padding-left: 1.5rem;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
