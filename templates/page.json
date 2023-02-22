@@ -41,6 +41,9 @@
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-1",
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-2"
       ],
+      "custom_css": [
+        ".rich-text__buttons {max-width: 30rem;}"
+      ],
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
