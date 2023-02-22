@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -85,12 +86,101 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "9cda90bb-dc75-4799-bbf7-5c9ff8cb9281": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--18095507538233__9cda90bb-dc75-4799-bbf7-5c9ff8cb9281-1676996963f516a635-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>About PAC 360 Design<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18095507538233__9cda90bb-dc75-4799-bbf7-5c9ff8cb9281-1676996963f516a635-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to PAC 360 Design - a family business that's all about creating eco-friendly packaging solutions that protect your products and the planet. We're passionate about what we do and take pride in our eco-friendly mission.<\/p><p> <\/p><p>Our story started with the realization that there had to be a better way to package products. We wanted to create innovative solutions that helped reduce waste and minimize our impact on the environment. That's why we're dedicated to providing high-quality, eco-friendly packaging options that meet the needs of businesses of all kinds.<\/p><p> <\/p><p>As a family business, we understand the importance of relationships and the value of personalized service. That's why we offer custom packaging design to ensure that your products are protected in the most efficient and effective way possible. We hold patents for some of our most innovative products, and we're constantly developing new solutions to meet the needs of our customers.<\/p><p> <\/p><p>At PAC 360 Design, we're not just about selling packaging products - we're about making a difference. We believe that everyone has a responsibility to protect the planet, and we're doing our part by providing sustainable packaging solutions that help reduce waste and minimize our environmental footprint.<\/p><p> <\/p><p>So, whether you need shipping boxes, custom packaging, or any other kind of packaging solution, we've got you covered. Thank you for choosing PAC 360 Design as your packaging partner - we look forward to working with you!<\/p>"
+          }
+        },
+        "template--18095507538233__9cda90bb-dc75-4799-bbf7-5c9ff8cb9281-1676996963f516a635-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18095507538233__9cda90bb-dc75-4799-bbf7-5c9ff8cb9281-1676996963f516a635-0",
+        "template--18095507538233__9cda90bb-dc75-4799-bbf7-5c9ff8cb9281-1676996963f516a635-1",
+        "template--18095507538233__9cda90bb-dc75-4799-bbf7-5c9ff8cb9281-1676996963f516a635-2"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c7fa9c31-d1de-416e-ac57-cf9c3ce1c482": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18095507538233__c7fa9c31-d1de-416e-ac57-cf9c3ce1c482-1677077354fb60d062-0": {
+          "type": "column",
+          "settings": {
+            "title": "About PAC 360 Design",
+            "text": "<p>Welcome to PAC 360 Design - a family business that's all about creating eco-friendly packaging solutions that protect your products and the planet. We're passionate about what we do and take pride in our eco-friendly mission.<\/p><p> <\/p><p>Our story started with the realization that there had to be a better way to package products. We wanted to create innovative solutions that helped reduce waste and minimize our impact on the environment. That's why we're dedicated to providing high-quality, eco-friendly packaging options that meet the needs of businesses of all kinds.<\/p><p> <\/p><p>As a family business, we understand the importance of relationships and the value of personalized service. That's why we offer custom packaging design to ensure that your products are protected in the most efficient and effective way possible. We hold patents for some of our most innovative products, and we're constantly developing new solutions to meet the needs of our customers.<\/p><p> <\/p><p>At PAC 360 Design, we're not just about selling packaging products - we're about making a difference. We believe that everyone has a responsibility to protect the planet, and we're doing our part by providing sustainable packaging solutions that help reduce waste and minimize our environmental footprint.<\/p><p> <\/p><p>So, whether you need shipping boxes, custom packaging, or any other kind of packaging solution, we've got you covered. Thank you for choosing PAC 360 Design as your packaging partner - we look forward to working with you!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18095507538233__c7fa9c31-d1de-416e-ac57-cf9c3ce1c482-1677077354fb60d062-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_badge_2x_42f78c21-d641-4a52-b7ee-8cc14172aac6.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18095507538233__c7fa9c31-d1de-416e-ac57-cf9c3ce1c482-1677077354fb60d062-0",
+        "template--18095507538233__c7fa9c31-d1de-416e-ac57-cf9c3ce1c482-1677077354fb60d062-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Contact Us",
+        "button_link": "shopify:\/\/pages\/contact-us",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "cb7ed00b-2722-4539-a099-85a6baacc131",
     "b1064b68-cb0a-4349-80e3-9c33240e1f8a",
-    "3e112e65-43fd-48dc-9a41-a472696474e9"
+    "3e112e65-43fd-48dc-9a41-a472696474e9",
+    "9cda90bb-dc75-4799-bbf7-5c9ff8cb9281",
+    "c7fa9c31-d1de-416e-ac57-cf9c3ce1c482"
   ]
 }
