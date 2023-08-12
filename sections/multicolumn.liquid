@@ -54,7 +54,7 @@
           {%- if block.settings.image == blank and block.settings.title == blank and block.settings.text == blank and block.settings.link_label == blank -%}
             {%- assign empty_column = ' multicolumn-list__item--empty' -%}
           {%- endif -%}
-
+<a class="link animate-arrow" {% if block.settings.link == blank %}role="link" aria-disabled="true"{% else %}href="{{ block.settings.link }}"{% endif %}>{{ block.settings.link_label | escape }}
           <li id="Slide-{{ section.id }}-{{ forloop.index }}" class="multicolumn-list__item grid__item{% if section.settings.swipe_on_mobile %} slider__slide{% endif %}{% if section.settings.column_alignment == 'center' %} center{% endif %}{{ empty_column }}" {{ block.shopify_attributes }}>            
             <div class="multicolumn-card content-container">
               {%- if block.settings.image != blank -%}
@@ -98,6 +98,7 @@
               </div>
             </div>
           </li>
+  </a>
         {%- endfor -%}
       </ul>
 
