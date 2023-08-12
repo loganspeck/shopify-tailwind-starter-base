@@ -130,7 +130,7 @@
             "title": "Our patented design process",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/pages\/our-patented-design-process"
           }
         },
         "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-2": {
@@ -140,17 +140,17 @@
             "title": "How to use our packaging",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/pages\/how-to-use-our-packaging"
           }
         },
         "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-3": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Custom_Solutions_cb264d40-c781-4224-9dee-83d0647ee782.png",
-            "title": "Custom packaging",
+            "title": "Custom Solutions",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/pages\/custom-solutions"
           }
         },
         "ef46e641-27bc-4bb8-ba69-1eefe9b827c0": {
@@ -160,7 +160,7 @@
             "title": "International Partners",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/pages\/international-partners"
           }
         }
       },
