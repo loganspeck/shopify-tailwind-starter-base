@@ -76,7 +76,7 @@
     "87fab755-4256-4e25-820b-cd179c2b93c9": {
       "type": "collection-list",
       "blocks": {
-        "template--17879532896569__87fab755-4256-4e25-820b-cd179c2b93c9-16766456631d360148-0": {
+        "featured_collection_kNnx3T": {
           "type": "featured_collection",
           "settings": {
             "collection": "frontpage"
@@ -84,7 +84,7 @@
         }
       },
       "block_order": [
-        "template--17879532896569__87fab755-4256-4e25-820b-cd179c2b93c9-16766456631d360148-0"
+        "featured_collection_kNnx3T"
       ],
       "settings": {
         "title": "Featured Products",
