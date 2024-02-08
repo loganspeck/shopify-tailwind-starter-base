@@ -423,5 +423,12 @@
       "copy_code_success": "Code copied successfully",
       "print_gift_card": "Print"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "order_summary": {
+        "shipping_default_value": "Enter shipping address"
+      }
+    }
   }
 }
