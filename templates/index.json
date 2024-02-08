@@ -100,6 +100,33 @@
         "padding_bottom": 36
       }
     },
+    "featured_collection_PTQV7b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Plastic Free Solutions",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "608bd690-f5d8-47bc-9f70-26a2bce4e193": {
       "type": "multicolumn",
       "blocks": {
@@ -216,6 +243,7 @@
     "7c15317d-5f50-4d1f-b044-32d821843209",
     "image_banner",
     "featured_collection_zLTe7F",
+    "featured_collection_PTQV7b",
     "608bd690-f5d8-47bc-9f70-26a2bce4e193",
     "5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0"
   ]
