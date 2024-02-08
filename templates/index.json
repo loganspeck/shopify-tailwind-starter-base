@@ -100,32 +100,6 @@
         "padding_bottom": 36
       }
     },
-    "87fab755-4256-4e25-820b-cd179c2b93c9": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_kNnx3T": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "frontpage"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_kNnx3T"
-      ],
-      "settings": {
-        "title": "Featured Products",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "color_scheme": "background-2",
-        "show_view_all": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "608bd690-f5d8-47bc-9f70-26a2bce4e193": {
       "type": "multicolumn",
       "blocks": {
@@ -236,53 +210,13 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "branded"
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "example-product-a",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "ecommerce"
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Best Sellers",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "7c15317d-5f50-4d1f-b044-32d821843209",
     "image_banner",
     "featured_collection_zLTe7F",
-    "87fab755-4256-4e25-820b-cd179c2b93c9",
     "608bd690-f5d8-47bc-9f70-26a2bce4e193",
-    "5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0",
-    "collage"
+    "5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0"
   ]
 }
