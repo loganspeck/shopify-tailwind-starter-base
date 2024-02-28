@@ -31,11 +31,11 @@
         "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Our_patented_design_process_ec97f6a4-5efc-4149-b7e8-84ee13d5c5fb.png",
+            "image": "shopify:\/\/shop_images\/shipping-supplies.jpg",
             "title": "Get Your Custom Packaging Started",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/our-patented-design-process"
+            "link": "shopify:\/\/pages\/custom-solutions"
           }
         },
         "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-2": {
@@ -52,10 +52,10 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Custom_Solutions_cb264d40-c781-4224-9dee-83d0647ee782.png",
-            "title": "Custom Solutions",
+            "title": "Our Patented Design & Manufacturing Process",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/custom-solutions"
+            "link": "shopify:\/\/pages\/our-patented-design-process"
           }
         },
         "ef46e641-27bc-4bb8-ba69-1eefe9b827c0": {
@@ -65,7 +65,7 @@
             "title": "Sustainability of Our Products & Services",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/international-partners"
+            "link": "shopify:\/\/pages\/sustainability"
           }
         }
       },
