@@ -32,7 +32,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Our_patented_design_process_ec97f6a4-5efc-4149-b7e8-84ee13d5c5fb.png",
-            "title": "Our patented design process",
+            "title": "Get Your Custom Packaging Started",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/pages\/our-patented-design-process"
@@ -42,7 +42,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/How_to_use_our_packaging_49709b3a-d3ec-43d9-8c17-c8cefa70030a.png",
-            "title": "How to use our packaging",
+            "title": "How Our Packaging Solutions Work",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/pages\/how-to-use-our-packaging"
@@ -62,7 +62,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/International_Partners_f1648e8b-f550-4577-8bd3-90d7adf227de.png",
-            "title": "International Partners",
+            "title": "Sustainability of Our Products & Services",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/pages\/international-partners"
@@ -76,8 +76,8 @@
         "ef46e641-27bc-4bb8-ba69-1eefe9b827c0"
       ],
       "settings": {
-        "title": "Resource Center",
-        "heading_size": "h1",
+        "title": "",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 4,
