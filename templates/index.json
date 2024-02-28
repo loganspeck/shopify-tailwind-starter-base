@@ -25,6 +25,73 @@
       "settings": {
       }
     },
+    "608bd690-f5d8-47bc-9f70-26a2bce4e193": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Our_patented_design_process_ec97f6a4-5efc-4149-b7e8-84ee13d5c5fb.png",
+            "title": "Our patented design process",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/our-patented-design-process"
+          }
+        },
+        "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/How_to_use_our_packaging_49709b3a-d3ec-43d9-8c17-c8cefa70030a.png",
+            "title": "How to use our packaging",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/how-to-use-our-packaging"
+          }
+        },
+        "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Custom_Solutions_cb264d40-c781-4224-9dee-83d0647ee782.png",
+            "title": "Custom Solutions",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/custom-solutions"
+          }
+        },
+        "ef46e641-27bc-4bb8-ba69-1eefe9b827c0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/International_Partners_f1648e8b-f550-4577-8bd3-90d7adf227de.png",
+            "title": "International Partners",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/international-partners"
+          }
+        }
+      },
+      "block_order": [
+        "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-1",
+        "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-2",
+        "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-3",
+        "ef46e641-27bc-4bb8-ba69-1eefe9b827c0"
+      ],
+      "settings": {
+        "title": "Resource Center",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -127,73 +194,6 @@
         "padding_bottom": 36
       }
     },
-    "608bd690-f5d8-47bc-9f70-26a2bce4e193": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Our_patented_design_process_ec97f6a4-5efc-4149-b7e8-84ee13d5c5fb.png",
-            "title": "Our patented design process",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/our-patented-design-process"
-          }
-        },
-        "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/How_to_use_our_packaging_49709b3a-d3ec-43d9-8c17-c8cefa70030a.png",
-            "title": "How to use our packaging",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/how-to-use-our-packaging"
-          }
-        },
-        "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Custom_Solutions_cb264d40-c781-4224-9dee-83d0647ee782.png",
-            "title": "Custom Solutions",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/custom-solutions"
-          }
-        },
-        "ef46e641-27bc-4bb8-ba69-1eefe9b827c0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/International_Partners_f1648e8b-f550-4577-8bd3-90d7adf227de.png",
-            "title": "International Partners",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/pages\/international-partners"
-          }
-        }
-      },
-      "block_order": [
-        "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-1",
-        "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-2",
-        "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-3",
-        "ef46e641-27bc-4bb8-ba69-1eefe9b827c0"
-      ],
-      "settings": {
-        "title": "Resource Center",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0": {
       "type": "multicolumn",
       "blocks": {
@@ -241,10 +241,10 @@
   },
   "order": [
     "7c15317d-5f50-4d1f-b044-32d821843209",
+    "608bd690-f5d8-47bc-9f70-26a2bce4e193",
     "image_banner",
     "featured_collection_zLTe7F",
     "featured_collection_PTQV7b",
-    "608bd690-f5d8-47bc-9f70-26a2bce4e193",
     "5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0"
   ]
 }
