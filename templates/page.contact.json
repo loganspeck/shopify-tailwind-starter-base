@@ -27,7 +27,7 @@
         "text_mcfBDY": {
           "type": "text",
           "settings": {
-            "text": "<p>If you are submitting a custom design request, please include the type of product in the \"comment\" section below:<\/p>"
+            "text": "<p>If you are submitting a custom design request, please type \"custom design\" in the comment section below and you will be contacted by one of our account coordinators to get your project started!<\/p>"
           }
         }
       },
