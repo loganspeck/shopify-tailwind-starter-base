@@ -23,11 +23,18 @@
           "settings": {
             "text": "<p>Thank you for your interest in PAC 360 Design! We are always here to help answer any questions you may have about our products and services. If you have a question, comment, or concern, please don't hesitate to reach out to us using the contact form below. Our dedicated team of packaging experts will get back to you as soon as possible. Alternatively, you can also give us a call or send us an email using the information provided on this page. We value your feedback and look forward to hearing from you!<\/p>"
           }
+        },
+        "text_mcfBDY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you are submitting a custom design request, please include the following information in the \"comment\" section below:<\/p><ol><li>Type of Product<\/li><li>Product Dimensions<\/li><li>Expected Monthly Usage<\/li><\/ol>"
+          }
         }
       },
       "block_order": [
         "template--17879533289785__7f40e0cc-5566-4307-92f2-794455d77a72-1676996963f516a635-0",
-        "template--17879533289785__7f40e0cc-5566-4307-92f2-794455d77a72-1676996963f516a635-1"
+        "template--17879533289785__7f40e0cc-5566-4307-92f2-794455d77a72-1676996963f516a635-1",
+        "text_mcfBDY"
       ],
       "settings": {
         "desktop_content_position": "left",
