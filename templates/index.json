@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "7c15317d-5f50-4d1f-b044-32d821843209": {
@@ -6,14 +15,14 @@
         "template--17879532896569__7c15317d-5f50-4d1f-b044-32d821843209-1676647319462a472a-0": {
           "type": "video",
           "settings": {
-            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/ec879bf3e2094918b887f3ede654141e.mp4",
-            "video_image": "shopify:\/\/shop_images\/Hero-preload-BG.png",
+            "video_link": "https://cdn.shopify.com/videos/c/o/v/ec879bf3e2094918b887f3ede654141e.mp4",
+            "video_image": "shopify://shop_images/Hero-preload-BG.png",
             "overlay_opacity": 99,
             "title": "PAC 360 Design",
-            "text": "<p>Discover a greener way to ship with our eco-friendly product line.<\/p>",
+            "text": "<p>Discover a greener way to ship with our eco-friendly product line.</p>",
             "color_text": "#ffffff",
             "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "color_btn_bg": "#ffffff",
             "color_btn_text": "#121212"
           }
@@ -31,41 +40,41 @@
         "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shipping-supplies.jpg",
+            "image": "shopify://shop_images/Screenshot_2024-10-25_150030.png",
             "title": "Get Your Custom Packaging Started",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/custom-solutions"
+            "link": "shopify://pages/custom-solutions"
           }
         },
         "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/s-l1600_ab2f139e-8ed0-4437-ba7a-3fb6885c6fbf.png",
+            "image": "shopify://shop_images/s-l1600_ab2f139e-8ed0-4437-ba7a-3fb6885c6fbf.png",
             "title": "How Our Packaging Solutions Work",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/how-to-use-our-packaging"
+            "link": "shopify://pages/how-to-use-our-packaging"
           }
         },
         "template--17879532896569__608bd690-f5d8-47bc-9f70-26a2bce4e193-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/US20060138018A1-20060629-D00010.png",
+            "image": "shopify://shop_images/US20060138018A1-20060629-D00010.png",
             "title": "Our Patented Design & Manufacturing Process",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/our-patented-design-process"
+            "link": "shopify://pages/our-patented-design-process"
           }
         },
         "ef46e641-27bc-4bb8-ba69-1eefe9b827c0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/grassy-tops-on-rocky-cliffs-by-ocean-shore.jpg",
+            "image": "shopify://shop_images/grassy-tops-on-rocky-cliffs-by-ocean-shore.jpg",
             "title": "Sustainability of Our Products & Services",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/pages\/sustainability"
+            "link": "shopify://pages/sustainability"
           }
         }
       },
@@ -113,7 +122,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -200,7 +209,7 @@
         "template--17879532896569__5762b7e9-9cbc-4b52-ac17-8f1e4ee21fc0-1676991672da0c0749-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Inverse_Badge_2x_c01d90c4-0877-4358-a317-3206255824a9.png",
+            "image": "shopify://shop_images/Inverse_Badge_2x_c01d90c4-0877-4358-a317-3206255824a9.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -211,7 +220,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>At PAC 360 Design, we are committed to reducing waste and protecting the environment through eco-friendly packaging solutions. We're passionate about sustainability and take pride in providing high-quality, innovative, and affordable packaging products that meet the needs of businesses of all sizes. Our mission is to help businesses reduce their carbon footprint and make a positive impact on the environment. Whether you're a startup, a small business or a large corporation, we're here to provide you with the most effective and sustainable packaging solutions available. Thanks for choosing PAC 360 Design as your partner in sustainability, we can't wait to help you achieve your environmental goals!<\/p>",
+            "text": "<p>At PAC 360 Design, we are committed to reducing waste and protecting the environment through eco-friendly packaging solutions. We're passionate about sustainability and take pride in providing high-quality, innovative, and affordable packaging products that meet the needs of businesses of all sizes. Our mission is to help businesses reduce their carbon footprint and make a positive impact on the environment. Whether you're a startup, a small business or a large corporation, we're here to provide you with the most effective and sustainable packaging solutions available. Thanks for choosing PAC 360 Design as your partner in sustainability, we can't wait to help you achieve your environmental goals!</p>",
             "link_label": "",
             "link": ""
           }
@@ -230,7 +239,7 @@
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "Read More",
-        "button_link": "shopify:\/\/pages\/sustainability",
+        "button_link": "shopify://pages/sustainability",
         "color_scheme": "accent-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
