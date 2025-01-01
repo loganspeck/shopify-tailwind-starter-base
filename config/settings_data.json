@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#f9fbef",
@@ -84,20 +93,20 @@
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
     "social_twitter_link": "",
-    "social_facebook_link": "https:\/\/www.facebook.com\/profile.php?id=100094439931533",
+    "social_facebook_link": "https://www.facebook.com/profile.php?id=100094439931533",
     "social_pinterest_link": "",
-    "social_instagram_link": "http:\/\/instagram.com\/pac360_packaging",
-    "social_tiktok_link": "https:\/\/tiktok.com\/@pac360_packaging",
+    "social_instagram_link": "http://instagram.com/pac360_packaging",
+    "social_tiktok_link": "https://tiktok.com/@pac360_packaging",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCx4tFFCv-SCeeQE-Hu3Kj1Q",
+    "social_youtube_link": "https://www.youtube.com/channel/UCx4tFFCv-SCeeQE-Hu3Kj1Q",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
-    "favicon": "shopify:\/\/shop_images\/Logo_badge_2x_42f78c21-d641-4a52-b7ee-8cc14172aac6.png",
+    "favicon": "shopify://shop_images/Logo_badge_2x_42f78c21-d641-4a52-b7ee-8cc14172aac6.png",
     "currency_code_enabled": true,
-    "checkout_logo_image": "shopify:\/\/shop_images\/logo_2x_4d34651b-422a-441c-9f01-a6b2285de7a8.png",
+    "checkout_logo_image": "shopify://shop_images/logo_2x_4d34651b-422a-441c-9f01-a6b2285de7a8.png",
     "checkout_accent_color": "#256151",
     "checkout_button_color": "#256151",
     "sections": {
@@ -118,14 +127,13 @@
         "block_order": [
           "announcement-bar-0"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-2",
-          "logo": "shopify:\/\/shop_images\/logo.png",
+          "logo": "shopify://shop_images/logo.png",
           "logo_width": 180,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -165,7 +173,7 @@
             "type": "text",
             "settings": {
               "heading": "Contact Us",
-              "subtext": "<p>Phone: <a href=\"tel:334-332-3331\" title=\"(334) 332-3331\">(442) 888-2324<\/a><\/p><p><\/p><p>Email: <a href=\"mailto:loganspeck0@gmail.com\" title=\"mailto:loganspeck0@gmail.com\">info@pac360design.com<\/a><\/p><p><\/p><p>3300 Winbrook Dr Memphis, TN 38116<\/p><p><\/p>"
+              "subtext": "<p>Phone: <a href=\"tel:334-332-3331\" title=\"(334) 332-3331\">(442) 888-2324</a></p><p></p><p>Email: <a href=\"mailto:loganspeck0@gmail.com\" title=\"mailto:loganspeck0@gmail.com\">info@pac360design.com</a></p><p></p><p>3300 Winbrook Dr Memphis, TN 38116</p><p></p>"
             }
           }
         },
@@ -202,12 +210,10 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
           "button_color": "#000000",
@@ -219,6 +225,11 @@
           "button_vertical_position": "lowest",
           "greeting_message": ""
         }
+      },
+      "2137770210958296680": {
+        "type": "shopify://apps/debutify-product-reviews-qa/blocks/debutify_review_core/df08bded-40dd-47c1-88ee-4648245a6441",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
@@ -336,8 +347,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -372,7 +382,7 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
               }
             }
           },
