@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,21 +23,21 @@
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Lead Times<\/p>",
+            "heading": "<p>Lead Times</p>",
             "heading_size": "h1"
           }
         },
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We understand that getting your packaging products in a timely manner is crucial to your business, and we're committed to delivering high-quality products in a timely manner. Here's what you can expect for lead times on both standard and custom orders:<\/p><p><\/p><p>For standard orders, our lead time is typically 2-3 business days. This includes the time it takes for us to manufacture and package your products before they are shipped out to you. We offer a wide range of standard products on our website, so you can easily find the packaging solution that's right for your needs. If you need your standard order expedited, please contact us and we will do our best to accommodate your needs.<\/p><p><\/p><p>For custom orders, our lead time is typically 1-2 weeks. This includes the time it takes for our team to design, engineer, and manufacture your custom packaging solution. We take great pride in providing custom packaging solutions that meet your specific requirements, and we work closely with you throughout the entire process to ensure that your packaging is exactly what you need. If you have a tight deadline for your custom order, please contact us and we will do our best to work within your timeline.<\/p><p><\/p><p>At PAC 360 Design, we understand that lead times are an important consideration when choosing a packaging provider. We're committed to delivering high-quality products in a timely manner, and we're always here to help answer any questions you may have. Thank you for choosing PAC 360 Design for your packaging needs.<\/p><p><\/p>"
+            "text": "<p>We understand that getting your packaging products in a timely manner is crucial to your business, and we're committed to delivering high-quality products in a timely manner. Here's what you can expect for lead times on both standard and custom orders:</p><p></p><p>For standard orders, our lead time is typically 2-3 business days. This includes the time it takes for us to manufacture and package your products before they are shipped out to you. We offer a wide range of standard products on our website, so you can easily find the packaging solution that's right for your needs. If you need your standard order expedited, please contact us and we will do our best to accommodate your needs.</p><p></p><p>For custom orders, our lead time is typically 1-2 weeks. This includes the time it takes for our team to design, engineer, and manufacture your custom packaging solution. We take great pride in providing custom packaging solutions that meet your specific requirements, and we work closely with you throughout the entire process to ensure that your packaging is exactly what you need. If you have a tight deadline for your custom order, please contact us and we will do our best to work within your timeline.</p><p></p><p>At PAC 360 Design, we understand that lead times are an important consideration when choosing a packaging provider. We're committed to delivering high-quality products in a timely manner, and we're always here to help answer any questions you may have. Thank you for choosing PAC 360 Design for your packaging needs.</p><p></p>"
           }
         },
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-2": {
           "type": "button",
           "settings": {
             "button_label": "Still Have Questions?",
-            "button_link": "shopify:\/\/pages\/contact-us",
+            "button_link": "shopify://pages/contact-us",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "#SectionHeading-template--17879532634425__b1064b68-cb0a-4349-80e3-9c33240e1f8a",
@@ -59,7 +68,7 @@
       "settings": {
         "heading": "Tutorials",
         "heading_size": "h2",
-        "blog": "resource-center-product-tutorials",
+        "blog": "design-custom-packaging",
         "post_limit": 3,
         "columns_desktop": 4,
         "color_scheme": "accent-2",

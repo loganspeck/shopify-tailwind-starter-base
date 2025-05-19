@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -10,19 +19,18 @@
     },
     "cb7ed00b-2722-4539-a099-85a6baacc131": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Resource Center<\/p>",
+            "heading": "<p>Resource Center</p>",
             "heading_size": "h1"
           }
         },
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to the PAC 360 Design Resource Center! We understand that when it comes to packaging, it can be hard to navigate through the vast options available. That's why we've created this resource center to provide you with the information you need to make informed decisions about your packaging solutions. Whether you're looking for tips on sustainable packaging, the latest packaging trends, tutorials on how to use our products, or how to choose the right packaging materials for your products, we've got you covered. So dive in, explore, and empower yourself to make the best choices for your business and the planet.<\/p>"
+            "text": "<p>Welcome to the PAC 360 Design Resource Center! We understand that when it comes to packaging, it can be hard to navigate through the vast options available. That's why we've created this resource center to provide you with the information you need to make informed decisions about your packaging solutions. Whether you're looking for tips on sustainable packaging, the latest packaging trends, tutorials on how to use our products, or how to choose the right packaging materials for your products, we've got you covered. So dive in, explore, and empower yourself to make the best choices for your business and the planet.</p>"
           }
         },
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-2": {
@@ -42,6 +50,7 @@
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-1",
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-2"
       ],
+      "disabled": true,
       "custom_css": [
         ".rich-text__buttons {max-width: 30rem;}"
       ],
@@ -60,7 +69,7 @@
       "settings": {
         "heading": "Tutorials",
         "heading_size": "h2",
-        "blog": "resource-center-product-tutorials",
+        "blog": "design-custom-packaging",
         "post_limit": 3,
         "columns_desktop": 4,
         "color_scheme": "accent-2",
@@ -96,21 +105,21 @@
         "template--18104510906681__0b08ae8d-2def-4006-8e29-7867922bd1db-1676996963f516a635-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Our Vision and Framework<\/p>",
+            "heading": "<p>Our Vision and Framework</p>",
             "heading_size": "h1"
           }
         },
         "template--18104510906681__0b08ae8d-2def-4006-8e29-7867922bd1db-1676996963f516a635-1": {
           "type": "text",
           "settings": {
-            "text": "<p>PAC 360 Design is a family-owned business that is passionate about providing eco-friendly and effective packaging solutions for businesses of all sizes. Our vision is to lead the industry in innovative, sustainable, and cost-effective packaging solutions that protect our planet and your products.<\/p><p><\/p><p>To achieve this vision, we've developed a framework that guides our decision-making and product development. This framework is based on three key pillars: sustainability, innovation, and customer satisfaction.<\/p><p><\/p><p>Sustainability is at the core of our business. We're committed to minimizing our environmental impact by using eco-friendly materials, optimizing our product-to-package ratio, and reducing waste throughout our entire supply chain. We believe that protecting the planet is everyone's responsibility, and we're proud to do our part.<\/p><p><\/p><p>Innovation is another key pillar of our framework. We believe that the best way to provide our customers with effective and sustainable packaging solutions is through continuous innovation. That's why we're always looking for new and better ways to protect your products while minimizing our environmental impact. Our patented technology, for example, is just one example of the kind of innovation we're constantly striving for.<\/p><p><\/p><p>Customer satisfaction is our third and final pillar. We know that our success depends on your success, which is why we're committed to providing the highest level of customer service and satisfaction. We take pride in offering custom packaging solutions that are tailored to your specific needs and requirements, and we're always here to help you find the right packaging solution for your business.<\/p><p><\/p><p>Thank you for taking the time to learn more about our vision and framework at PAC 360 Design. We're committed to providing sustainable, innovative, and customer-centric packaging solutions for businesses like yours.<\/p>"
+            "text": "<p>PAC 360 Design is a family-owned business that is passionate about providing eco-friendly and effective packaging solutions for businesses of all sizes. Our vision is to lead the industry in innovative, sustainable, and cost-effective packaging solutions that protect our planet and your products.</p><p></p><p>To achieve this vision, we've developed a framework that guides our decision-making and product development. This framework is based on three key pillars: sustainability, innovation, and customer satisfaction.</p><p></p><p>Sustainability is at the core of our business. We're committed to minimizing our environmental impact by using eco-friendly materials, optimizing our product-to-package ratio, and reducing waste throughout our entire supply chain. We believe that protecting the planet is everyone's responsibility, and we're proud to do our part.</p><p></p><p>Innovation is another key pillar of our framework. We believe that the best way to provide our customers with effective and sustainable packaging solutions is through continuous innovation. That's why we're always looking for new and better ways to protect your products while minimizing our environmental impact. Our patented technology, for example, is just one example of the kind of innovation we're constantly striving for.</p><p></p><p>Customer satisfaction is our third and final pillar. We know that our success depends on your success, which is why we're committed to providing the highest level of customer service and satisfaction. We take pride in offering custom packaging solutions that are tailored to your specific needs and requirements, and we're always here to help you find the right packaging solution for your business.</p><p></p><p>Thank you for taking the time to learn more about our vision and framework at PAC 360 Design. We're committed to providing sustainable, innovative, and customer-centric packaging solutions for businesses like yours.</p>"
           }
         },
         "template--18104510906681__0b08ae8d-2def-4006-8e29-7867922bd1db-1676996963f516a635-2": {
           "type": "button",
           "settings": {
             "button_label": "Find Out More About Us",
-            "button_link": "shopify:\/\/pages\/about-us",
+            "button_link": "shopify://pages/about-us",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",

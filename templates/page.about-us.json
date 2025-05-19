@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -10,19 +19,18 @@
     },
     "cb7ed00b-2722-4539-a099-85a6baacc131": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Resource Center<\/p>",
+            "heading": "<p>Resource Center</p>",
             "heading_size": "h1"
           }
         },
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to the PAC 360 Design Resource Center! We understand that when it comes to packaging, it can be hard to navigate through the vast options available. That's why we've created this resource center to provide you with the information you need to make informed decisions about your packaging solutions. Whether you're looking for tips on sustainable packaging, the latest packaging trends, tutorials on how to use our products, or how to choose the right packaging materials for your products, we've got you covered. So dive in, explore, and empower yourself to make the best choices for your business and the planet.<\/p>"
+            "text": "<p>Welcome to the PAC 360 Design Resource Center! We understand that when it comes to packaging, it can be hard to navigate through the vast options available. That's why we've created this resource center to provide you with the information you need to make informed decisions about your packaging solutions. Whether you're looking for tips on sustainable packaging, the latest packaging trends, tutorials on how to use our products, or how to choose the right packaging materials for your products, we've got you covered. So dive in, explore, and empower yourself to make the best choices for your business and the planet.</p>"
           }
         },
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-2": {
@@ -42,6 +50,7 @@
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-1",
         "template--17879532634425__cb7ed00b-2722-4539-a099-85a6baacc131-16769958543bdf6971-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -57,7 +66,7 @@
       "settings": {
         "heading": "Tutorials",
         "heading_size": "h2",
-        "blog": "resource-center-product-tutorials",
+        "blog": "design-custom-packaging",
         "post_limit": 3,
         "columns_desktop": 4,
         "color_scheme": "background-1",
@@ -89,19 +98,18 @@
     },
     "9cda90bb-dc75-4799-bbf7-5c9ff8cb9281": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--18095507538233__9cda90bb-dc75-4799-bbf7-5c9ff8cb9281-1676996963f516a635-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>About PAC 360 Design<\/p>",
+            "heading": "<p>About PAC 360 Design</p>",
             "heading_size": "h1"
           }
         },
         "template--18095507538233__9cda90bb-dc75-4799-bbf7-5c9ff8cb9281-1676996963f516a635-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to PAC 360 Design - a family business that's all about creating eco-friendly packaging solutions that protect your products and the planet. We're passionate about what we do and take pride in our eco-friendly mission.<\/p><p> <\/p><p>Our story started with the realization that there had to be a better way to package products. We wanted to create innovative solutions that helped reduce waste and minimize our impact on the environment. That's why we're dedicated to providing high-quality, eco-friendly packaging options that meet the needs of businesses of all kinds.<\/p><p> <\/p><p>As a family business, we understand the importance of relationships and the value of personalized service. That's why we offer custom packaging design to ensure that your products are protected in the most efficient and effective way possible. We hold patents for some of our most innovative products, and we're constantly developing new solutions to meet the needs of our customers.<\/p><p> <\/p><p>At PAC 360 Design, we're not just about selling packaging products - we're about making a difference. We believe that everyone has a responsibility to protect the planet, and we're doing our part by providing sustainable packaging solutions that help reduce waste and minimize our environmental footprint.<\/p><p> <\/p><p>So, whether you need shipping boxes, custom packaging, or any other kind of packaging solution, we've got you covered. Thank you for choosing PAC 360 Design as your packaging partner - we look forward to working with you!<\/p>"
+            "text": "<p>Welcome to PAC 360 Design - a family business that's all about creating eco-friendly packaging solutions that protect your products and the planet. We're passionate about what we do and take pride in our eco-friendly mission.</p><p> </p><p>Our story started with the realization that there had to be a better way to package products. We wanted to create innovative solutions that helped reduce waste and minimize our impact on the environment. That's why we're dedicated to providing high-quality, eco-friendly packaging options that meet the needs of businesses of all kinds.</p><p> </p><p>As a family business, we understand the importance of relationships and the value of personalized service. That's why we offer custom packaging design to ensure that your products are protected in the most efficient and effective way possible. We hold patents for some of our most innovative products, and we're constantly developing new solutions to meet the needs of our customers.</p><p> </p><p>At PAC 360 Design, we're not just about selling packaging products - we're about making a difference. We believe that everyone has a responsibility to protect the planet, and we're doing our part by providing sustainable packaging solutions that help reduce waste and minimize our environmental footprint.</p><p> </p><p>So, whether you need shipping boxes, custom packaging, or any other kind of packaging solution, we've got you covered. Thank you for choosing PAC 360 Design as your packaging partner - we look forward to working with you!</p>"
           }
         },
         "template--18095507538233__9cda90bb-dc75-4799-bbf7-5c9ff8cb9281-1676996963f516a635-2": {
@@ -121,6 +129,7 @@
         "template--18095507538233__9cda90bb-dc75-4799-bbf7-5c9ff8cb9281-1676996963f516a635-1",
         "template--18095507538233__9cda90bb-dc75-4799-bbf7-5c9ff8cb9281-1676996963f516a635-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
@@ -137,7 +146,7 @@
           "type": "column",
           "settings": {
             "title": "About PAC 360 Design",
-            "text": "<p>Welcome to PAC 360 Design - a family business that's all about creating eco-friendly packaging solutions that protect your products and the planet. We're passionate about what we do and take pride in our eco-friendly mission.<\/p><p> <\/p><p>Our story started with the realization that there had to be a better way to package products. We wanted to create innovative solutions that helped reduce waste and minimize our impact on the environment. That's why we're dedicated to providing high-quality, eco-friendly packaging options that meet the needs of businesses of all kinds.<\/p><p> <\/p><p>As a family business, we understand the importance of relationships and the value of personalized service. That's why we offer custom packaging design to ensure that your products are protected in the most efficient and effective way possible. We hold patents for some of our most innovative products, and we're constantly developing new solutions to meet the needs of our customers.<\/p><p> <\/p><p>At PAC 360 Design, we're not just about selling packaging products - we're about making a difference. We believe that everyone has a responsibility to protect the planet, and we're doing our part by providing sustainable packaging solutions that help reduce waste and minimize our environmental footprint.<\/p><p> <\/p><p>So, whether you need shipping boxes, custom packaging, or any other kind of packaging solution, we've got you covered. Thank you for choosing PAC 360 Design as your packaging partner - we look forward to working with you!<\/p>",
+            "text": "<p>Welcome to PAC 360 Design - a family business that's all about creating eco-friendly packaging solutions that protect your products and the planet. We're passionate about what we do and take pride in our eco-friendly mission.</p><p> </p><p>Our story started with the realization that there had to be a better way to package products. We wanted to create innovative solutions that helped reduce waste and minimize our impact on the environment. That's why we're dedicated to providing high-quality, eco-friendly packaging options that meet the needs of businesses of all kinds.</p><p> </p><p>As a family business, we understand the importance of relationships and the value of personalized service. That's why we offer custom packaging design to ensure that your products are protected in the most efficient and effective way possible. We hold patents for some of our most innovative products, and we're constantly developing new solutions to meet the needs of our customers.</p><p> </p><p>At PAC 360 Design, we're not just about selling packaging products - we're about making a difference. We believe that everyone has a responsibility to protect the planet, and we're doing our part by providing sustainable packaging solutions that help reduce waste and minimize our environmental footprint.</p><p> </p><p>So, whether you need shipping boxes, custom packaging, or any other kind of packaging solution, we've got you covered. Thank you for choosing PAC 360 Design as your packaging partner - we look forward to working with you!</p>",
             "link_label": "",
             "link": ""
           }
@@ -145,7 +154,7 @@
         "template--18095507538233__c7fa9c31-d1de-416e-ac57-cf9c3ce1c482-1677077354fb60d062-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Logo_badge_2x_42f78c21-d641-4a52-b7ee-8cc14172aac6.png",
+            "image": "shopify://shop_images/Logo_badge_2x_42f78c21-d641-4a52-b7ee-8cc14172aac6.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -169,7 +178,7 @@
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "Contact Us",
-        "button_link": "shopify:\/\/pages\/contact-us",
+        "button_link": "shopify://pages/contact-us",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
