@@ -84,7 +84,7 @@
       "settings": {
         "heading": "Product Information",
         "heading_size": "h2",
-        "blog": "how-to-assemble",
+        "blog": "all-blogs",
         "post_limit": 3,
         "columns_desktop": 4,
         "color_scheme": "background-1",
